@@ -1,0 +1,5 @@
+I need you to add a package org.hhs.resources
+create a servlet called UsersResosurce.java
+it is a servlet that should return a json object that has a json array of the users
+then use the json on the index page to display the data as a ttable
+u can choose to use data table like we did before

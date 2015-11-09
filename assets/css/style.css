@@ -1,0 +1,17 @@
+
+html, body{
+	background:#fff;
+	/*background: url('../images/background_stripes.gif') repeat;*/
+}
+
+
+header{
+	border:solid 0px #bbb;
+	min-height:100px;
+	background: url('../images/background_stripes.gif') repeat;
+
+}
+
+#search_form{
+	margin-top:30px;
+}
